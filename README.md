@@ -94,5 +94,60 @@ Using Pivot Charts and Excel formatting, I designed an interactive dashboard tha
 -> Why Dashboard?
 Dashboards help non-technical stakeholders:
 Understand data quickly
-Identify trends without reading tables
+Identify trends without reading tables  
+
+                                                        Prediction and Outcomes of the Sales Report
+
+1️⃣ How do sales vary by day of the week and hour of the day?
+-> Sales show a clear time-based pattern. Orders are highest during morning to late morning hours (around 7 AM – 11 AM), indicating strong demand during breakfast and work-start hours. Sales gradually decline in the afternoon and slightly stabilize in the evening.
+Weekday analysis shows Thursday as the highest-performing weekday in terms of total transactions, indicating strong mid-week customer activity.
+-- Business Insight:
+Coffee shop demand is strongest during workdays and morning hours
+Staffing and inventory should be optimized for these peak times
+
+2️⃣ Are there any peak times for sales activity?
+-> Yes. The peak sales hours are between 8 AM and 10 AM, where order volume reaches its maximum. This reflects customer behavior driven by office timings and morning routines.
+-- Business Insight:
+Ideal time for promotions and combo offers
+Ensure faster service and full stock availability during peak hours
+
+3️⃣ What is the total sales revenue for each month?
+-> From the available data, March recorded total sales of $5,35,475, making it a strong-performing month.
+-- Business Insight:
+Monthly sales trends help in forecasting future revenue
+Management can compare upcoming months against this benchmark
+
+4️⃣ How do sales vary across different store locations?
+->Among all locations:
+Lower Manhattan generated the highest sales
+Followed by Hell’s Kitchen
+Astoria recorded comparatively lower sales
+-- Business Insight:
+High-performing locations can be used as benchmarks
+Low-performing stores may need targeted marketing or operational improvements
+
+5️⃣ What is the average price/order per person?
+-> The average order value is $154 per customer, calculated using total sales divided by total footfall.
+-- Business Insight:
+Helps in pricing strategy
+Opportunity to increase AOV using upselling and bundling
+
+6️⃣ Which products are the best-selling in terms of quantity and revenue?
+-> The top-performing products based on revenue include:
+Barista Espresso
+Brewed Chai Tea
+Hot Chocolate
+Scone
+These products contribute the highest share of sales revenue.
+-- Business Insight:
+These products should be prioritized in promotions
+Stock planning should focus on high-demand items
+
+7️⃣ How do sales vary by product category and type?
+-> Sales are dominated by:
+Coffee and Tea categories, contributing the majority of revenue
+Bakery items also show strong performance as add-on purchases
+-- Business Insight:
+Coffee-based products are core revenue drivers
+Bundling bakery items with beverages can increase total sales
 Make faster business decisions
